@@ -1,3 +1,0 @@
-[servers]
-centos.my ansible_ssh_host=10.128.0.25
-ubuntu.my ansible_ssh_host=10.128.0.16
